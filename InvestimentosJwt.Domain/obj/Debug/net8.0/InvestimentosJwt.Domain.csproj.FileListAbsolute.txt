@@ -1,0 +1,11 @@
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\bin\Debug\net8.0\InvestimentosJwt.Domain.deps.json
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\bin\Debug\net8.0\InvestimentosJwt.Domain.dll
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\bin\Debug\net8.0\InvestimentosJwt.Domain.pdb
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\obj\Debug\net8.0\InvestimentosJwt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\obj\Debug\net8.0\InvestimentosJwt.Domain.AssemblyInfoInputs.cache
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\obj\Debug\net8.0\InvestimentosJwt.Domain.AssemblyInfo.cs
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\obj\Debug\net8.0\InvestimentosJwt.Domain.csproj.CoreCompileInputs.cache
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\obj\Debug\net8.0\InvestimentosJwt.Domain.dll
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\obj\Debug\net8.0\refint\InvestimentosJwt.Domain.dll
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\obj\Debug\net8.0\InvestimentosJwt.Domain.pdb
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Domain\obj\Debug\net8.0\ref\InvestimentosJwt.Domain.dll

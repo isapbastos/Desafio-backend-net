@@ -1,0 +1,15 @@
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\obj\Debug\net8.0\InvestimentosJwt.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\obj\Debug\net8.0\InvestimentosJwt.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\obj\Debug\net8.0\InvestimentosJwt.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\obj\Debug\net8.0\InvestimentosJwt.Infra.Data.AssemblyInfo.cs
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\obj\Debug\net8.0\InvestimentosJwt.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\bin\Debug\net8.0\InvestimentosJwt.Infra.Data.deps.json
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\bin\Debug\net8.0\InvestimentosJwt.Infra.Data.dll
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\bin\Debug\net8.0\InvestimentosJwt.Infra.Data.pdb
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\bin\Debug\net8.0\InvestimentosJwt.Domain.dll
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\bin\Debug\net8.0\InvestimentosJwt.Domain.pdb
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\obj\Debug\net8.0\Investim.30845DB9.Up2Date
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\obj\Debug\net8.0\InvestimentosJwt.Infra.Data.dll
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\obj\Debug\net8.0\refint\InvestimentosJwt.Infra.Data.dll
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\obj\Debug\net8.0\InvestimentosJwt.Infra.Data.pdb
+C:\Users\isa_p\source\repos\InvestimentosJwtApi\InvestimentosJwt.Infra.Data\obj\Debug\net8.0\ref\InvestimentosJwt.Infra.Data.dll

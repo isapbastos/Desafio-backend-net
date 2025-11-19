@@ -1,0 +1,764 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|solutionrelative:investimentosjwtapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwtapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|solutionrelative:investimentosjwtapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|solutionrelative:investimentosjwtapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.infra.data\\sql\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|solutionrelative:investimentosjwt.infra.data\\sql\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\controllers\\telemetriacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\controllers\\telemetriacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.application\\telemetriaservice\\telemetriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|solutionrelative:investimentosjwt.application\\telemetriaservice\\telemetriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwtapi\\controllers\\telemetriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|solutionrelative:investimentosjwtapi\\controllers\\telemetriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\controllers\\perfilcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\controllers\\perfilcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.application\\perfilservice\\perfilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|solutionrelative:investimentosjwt.application\\perfilservice\\perfilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\controllers\\simulacaocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\controllers\\simulacaocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwtapi\\controllers\\simulacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|solutionrelative:investimentosjwtapi\\controllers\\simulacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.domain\\entities\\simulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|solutionrelative:investimentosjwt.domain\\entities\\simulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.domain\\entities\\retornosimulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|solutionrelative:investimentosjwt.domain\\entities\\retornosimulacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwtapi\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|solutionrelative:investimentosjwtapi\\controllers\\perfilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\controllers\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\controllers\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwtapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|solutionrelative:investimentosjwtapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\services\\simulacaocalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\services\\simulacaocalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\services\\telemetriaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\services\\telemetriaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.application\\simulacaoservice\\simulacaocalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|solutionrelative:investimentosjwt.application\\simulacaoservice\\simulacaocalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\services\\perfilservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\services\\perfilservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\services\\simulacaoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\services\\simulacaoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.application\\simulacaoservice\\simulacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|solutionrelative:investimentosjwt.application\\simulacaoservice\\simulacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\sql\\repository\\simulacaorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\sql\\repository\\simulacaorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.infra.data\\sql\\simulacaorepository\\simulacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|solutionrelative:investimentosjwt.infra.data\\sql\\simulacaorepository\\simulacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\sql\\repository\\produtorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\sql\\repository\\produtorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.infra.data\\sql\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|solutionrelative:investimentosjwt.infra.data\\sql\\dataseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\services\\produtoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\services\\produtoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.tests\\controllers\\produtocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B3BD12-E1C9-4114-9102-659B2B7541E9}|InvestimentosJwt.Tests\\InvestimentosJwt.Tests.csproj|solutionrelative:investimentosjwt.tests\\controllers\\produtocontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwtapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|solutionrelative:investimentosjwtapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwtapi\\investimentosjwtapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|solutionrelative:investimentosjwtapi\\investimentosjwtapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.infra.data\\sql\\produtorepository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|solutionrelative:investimentosjwt.infra.data\\sql\\produtorepository\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.infra.data\\sql\\produtorepository\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|solutionrelative:investimentosjwt.infra.data\\sql\\produtorepository\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.application\\produtoservice\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|solutionrelative:investimentosjwt.application\\produtoservice\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.application\\telemetriaservice\\itelemetriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|solutionrelative:investimentosjwt.application\\telemetriaservice\\itelemetriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.infra.data\\sql\\telemetriarepository\\telemetriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|solutionrelative:investimentosjwt.infra.data\\sql\\telemetriarepository\\telemetriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.infra.data\\sql\\telemetriarepository\\itelemetriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|solutionrelative:investimentosjwt.infra.data\\sql\\telemetriarepository\\itelemetriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.application\\perfilservice\\iperfilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|solutionrelative:investimentosjwt.application\\perfilservice\\iperfilservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.application\\simulacaoservice\\isimulacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|solutionrelative:investimentosjwt.application\\simulacaoservice\\isimulacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.application\\simulacaoservice\\isimulacaocalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|solutionrelative:investimentosjwt.application\\simulacaoservice\\isimulacaocalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.infra.data\\sql\\simulacaorepository\\isimulacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615FFCDF-0817-48A0-B256-1D0D2AFC54C1}|InvestimentosJwt.Infra.Data\\InvestimentosJwt.Infra.Data.csproj|solutionrelative:investimentosjwt.infra.data\\sql\\simulacaorepository\\isimulacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.domain\\entities\\telemetriaregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|solutionrelative:investimentosjwt.domain\\entities\\telemetriaregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.domain\\entities\\simulacaoporprodutodiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|solutionrelative:investimentosjwt.domain\\entities\\simulacaoporprodutodiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwtapi\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9B9A2A-220F-49BD-A9D2-E87599696574}|InvestimentosJwtApi\\InvestimentosJwtApi.csproj|solutionrelative:investimentosjwtapi\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.application\\produtoservice\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05015A75-FB3A-4A66-89BE-3D7A2D9F11E2}|InvestimentosJwt.Application\\InvestimentosJwt.Application.csproj|solutionrelative:investimentosjwt.application\\produtoservice\\iprodutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|solutionrelative:investimentosjwt.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|c:\\users\\isa_p\\source\\repos\\investimentosjwtapi\\investimentosjwt.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158AFA5-9DCB-4698-8FE8-EE267B8A0604}|InvestimentosJwt.Domain\\InvestimentosJwt.Domain.csproj|solutionrelative:investimentosjwt.domain\\entities\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SimulacaoCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Services\\SimulacaoCalculatorTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Services\\SimulacaoCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Services\\SimulacaoCalculatorTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Services\\SimulacaoCalculatorTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:39:05.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SimulacaoCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\SimulacaoService\\SimulacaoCalculator.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Application\\SimulacaoService\\SimulacaoCalculator.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\SimulacaoService\\SimulacaoCalculator.cs",
+              "RelativeToolTip": "InvestimentosJwt.Application\\SimulacaoService\\SimulacaoCalculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:40:00.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Program.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwtApi\\Program.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Program.cs",
+              "RelativeToolTip": "InvestimentosJwtApi\\Program.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwHsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T23:59:58.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerfilService.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\PerfilService\\PerfilService.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Application\\PerfilService\\PerfilService.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\PerfilService\\PerfilService.cs",
+              "RelativeToolTip": "InvestimentosJwt.Application\\PerfilService\\PerfilService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:54:11.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimulacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Controllers\\SimulacaoController.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwtApi\\Controllers\\SimulacaoController.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Controllers\\SimulacaoController.cs",
+              "RelativeToolTip": "InvestimentosJwtApi\\Controllers\\SimulacaoController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:52:45.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RetornoSimulacao.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\RetornoSimulacao.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Domain\\Entities\\RetornoSimulacao.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\RetornoSimulacao.cs",
+              "RelativeToolTip": "InvestimentosJwt.Domain\\Entities\\RetornoSimulacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:35:50.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Simulacao.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\Simulacao.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Domain\\Entities\\Simulacao.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\Simulacao.cs",
+              "RelativeToolTip": "InvestimentosJwt.Domain\\Entities\\Simulacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:35:25.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Dockerfile",
+              "RelativeDocumentMoniker": "InvestimentosJwtApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Dockerfile",
+              "RelativeToolTip": "InvestimentosJwtApi\\Dockerfile",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-19T02:25:09.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Controllers\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Controllers\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Controllers\\AuthControllerTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Controllers\\AuthControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:53:46.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\appsettings.json",
+              "RelativeDocumentMoniker": "InvestimentosJwtApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\appsettings.json",
+              "RelativeToolTip": "InvestimentosJwtApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-18T23:59:46.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PerfilControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Controllers\\PerfilControllerTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Controllers\\PerfilControllerTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Controllers\\PerfilControllerTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Controllers\\PerfilControllerTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:54:45.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SimulacaoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Controllers\\SimulacaoControllerTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Controllers\\SimulacaoControllerTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Controllers\\SimulacaoControllerTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Controllers\\SimulacaoControllerTests.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:58:34.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Infra.Data\\Sql\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\AppDbContext.cs",
+              "RelativeToolTip": "InvestimentosJwt.Infra.Data\\Sql\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:15:56.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TelemetriaServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Services\\TelemetriaServiceTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Services\\TelemetriaServiceTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Services\\TelemetriaServiceTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Services\\TelemetriaServiceTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:43:47.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelemetriaControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Controllers\\TelemetriaControllerTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Controllers\\TelemetriaControllerTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Controllers\\TelemetriaControllerTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Controllers\\TelemetriaControllerTests.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T03:05:11.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TelemetriaController.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Controllers\\TelemetriaController.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwtApi\\Controllers\\TelemetriaController.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Controllers\\TelemetriaController.cs",
+              "RelativeToolTip": "InvestimentosJwtApi\\Controllers\\TelemetriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:01:59.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TelemetriaService.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\TelemetriaService\\TelemetriaService.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Application\\TelemetriaService\\TelemetriaService.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\TelemetriaService\\TelemetriaService.cs",
+              "RelativeToolTip": "InvestimentosJwt.Application\\TelemetriaService\\TelemetriaService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:00:35.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PerfilServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Services\\PerfilServiceTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Services\\PerfilServiceTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Services\\PerfilServiceTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Services\\PerfilServiceTests.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwGAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:42:48.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SimulacaoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Services\\SimulacaoServiceTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Services\\SimulacaoServiceTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Services\\SimulacaoServiceTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Services\\SimulacaoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:41:12.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SimulacaoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Sql\\Repository\\SimulacaoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Sql\\Repository\\SimulacaoRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Sql\\Repository\\SimulacaoRepositoryTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Sql\\Repository\\SimulacaoRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:37:26.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProdutoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Sql\\Repository\\ProdutoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Sql\\Repository\\ProdutoRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Sql\\Repository\\ProdutoRepositoryTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Sql\\Repository\\ProdutoRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:32:42.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataSeed.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\DataSeed.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Infra.Data\\Sql\\DataSeed.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\DataSeed.cs",
+              "RelativeToolTip": "InvestimentosJwt.Infra.Data\\Sql\\DataSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:15:21.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PerfilController.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Controllers\\PerfilController.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwtApi\\Controllers\\PerfilController.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Controllers\\PerfilController.cs",
+              "RelativeToolTip": "InvestimentosJwtApi\\Controllers\\PerfilController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:55:13.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProdutoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Services\\ProdutoServiceTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Services\\ProdutoServiceTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Services\\ProdutoServiceTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Services\\ProdutoServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:29:11.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwtApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InvestimentosJwtApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA8wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T00:02:30.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProdutoControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Controllers\\ProdutoControllerTests.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Tests\\Controllers\\ProdutoControllerTests.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Tests\\Controllers\\ProdutoControllerTests.cs",
+              "RelativeToolTip": "InvestimentosJwt.Tests\\Controllers\\ProdutoControllerTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:27:02.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SimulacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\SimulacaoService\\SimulacaoService.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Application\\SimulacaoService\\SimulacaoService.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\SimulacaoService\\SimulacaoService.cs",
+              "RelativeToolTip": "InvestimentosJwt.Application\\SimulacaoService\\SimulacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:39:42.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITelemetriaService.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\TelemetriaService\\ITelemetriaService.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Application\\TelemetriaService\\ITelemetriaService.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\TelemetriaService\\ITelemetriaService.cs",
+              "RelativeToolTip": "InvestimentosJwt.Application\\TelemetriaService\\ITelemetriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T02:00:41.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ISimulacaoCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\SimulacaoService\\ISimulacaoCalculator.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Application\\SimulacaoService\\ISimulacaoCalculator.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\SimulacaoService\\ISimulacaoCalculator.cs",
+              "RelativeToolTip": "InvestimentosJwt.Application\\SimulacaoService\\ISimulacaoCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:40:09.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SimulacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\SimulacaoRepository\\SimulacaoRepository.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Infra.Data\\Sql\\SimulacaoRepository\\SimulacaoRepository.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\SimulacaoRepository\\SimulacaoRepository.cs",
+              "RelativeToolTip": "InvestimentosJwt.Infra.Data\\Sql\\SimulacaoRepository\\SimulacaoRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:37:27.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwtApi\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "InvestimentosJwtApi\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:20:46.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPerfilService.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\PerfilService\\IPerfilService.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Application\\PerfilService\\IPerfilService.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\PerfilService\\IPerfilService.cs",
+              "RelativeToolTip": "InvestimentosJwt.Application\\PerfilService\\IPerfilService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:54:16.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InvestimentosJwtApi.csproj",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\InvestimentosJwtApi.csproj",
+              "RelativeDocumentMoniker": "InvestimentosJwtApi\\InvestimentosJwtApi.csproj",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\InvestimentosJwtApi.csproj",
+              "RelativeToolTip": "InvestimentosJwtApi\\InvestimentosJwtApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T02:19:17.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\ProdutoRepository\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Infra.Data\\Sql\\ProdutoRepository\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\ProdutoRepository\\ProdutoRepository.cs",
+              "RelativeToolTip": "InvestimentosJwt.Infra.Data\\Sql\\ProdutoRepository\\ProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:07:06.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\ProdutoService\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Application\\ProdutoService\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\ProdutoService\\ProdutoService.cs",
+              "RelativeToolTip": "InvestimentosJwt.Application\\ProdutoService\\ProdutoService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:21:27.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\ProdutoRepository\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Infra.Data\\Sql\\ProdutoRepository\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\ProdutoRepository\\IProdutoRepository.cs",
+              "RelativeToolTip": "InvestimentosJwt.Infra.Data\\Sql\\ProdutoRepository\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:07:21.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TelemetriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\TelemetriaRepository\\TelemetriaRepository.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Infra.Data\\Sql\\TelemetriaRepository\\TelemetriaRepository.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\TelemetriaRepository\\TelemetriaRepository.cs",
+              "RelativeToolTip": "InvestimentosJwt.Infra.Data\\Sql\\TelemetriaRepository\\TelemetriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:56:57.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ITelemetriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\TelemetriaRepository\\ITelemetriaRepository.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Infra.Data\\Sql\\TelemetriaRepository\\ITelemetriaRepository.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\TelemetriaRepository\\ITelemetriaRepository.cs",
+              "RelativeToolTip": "InvestimentosJwt.Infra.Data\\Sql\\TelemetriaRepository\\ITelemetriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:57:06.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ISimulacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\SimulacaoService\\ISimulacaoService.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Application\\SimulacaoService\\ISimulacaoService.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\SimulacaoService\\ISimulacaoService.cs",
+              "RelativeToolTip": "InvestimentosJwt.Application\\SimulacaoService\\ISimulacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:39:49.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ISimulacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\SimulacaoRepository\\ISimulacaoRepository.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Infra.Data\\Sql\\SimulacaoRepository\\ISimulacaoRepository.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Infra.Data\\Sql\\SimulacaoRepository\\ISimulacaoRepository.cs",
+              "RelativeToolTip": "InvestimentosJwt.Infra.Data\\Sql\\SimulacaoRepository\\ISimulacaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:37:35.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TelemetriaRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\TelemetriaRegistro.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Domain\\Entities\\TelemetriaRegistro.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\TelemetriaRegistro.cs",
+              "RelativeToolTip": "InvestimentosJwt.Domain\\Entities\\TelemetriaRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:36:42.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SimulacaoPorProdutoDiaDto.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\SimulacaoPorProdutoDiaDto.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Domain\\Entities\\SimulacaoPorProdutoDiaDto.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\SimulacaoPorProdutoDiaDto.cs",
+              "RelativeToolTip": "InvestimentosJwt.Domain\\Entities\\SimulacaoPorProdutoDiaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:36:16.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\ProdutoService\\IProdutoService.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Application\\ProdutoService\\IProdutoService.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Application\\ProdutoService\\IProdutoService.cs",
+              "RelativeToolTip": "InvestimentosJwt.Application\\ProdutoService\\IProdutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:21:34.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "InvestimentosJwt.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:17:10.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\Produto.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwt.Domain\\Entities\\Produto.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwt.Domain\\Entities\\Produto.cs",
+              "RelativeToolTip": "InvestimentosJwt.Domain\\Entities\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:08:12.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "InvestimentosJwtApi\\DTOs\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\isa_p\\source\\repos\\InvestimentosJwtApi\\InvestimentosJwtApi\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "InvestimentosJwtApi\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T00:02:07.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
